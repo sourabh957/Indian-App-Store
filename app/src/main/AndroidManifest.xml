@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.governmentapps">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".sportsWordsGamesApps"></activity>
+        <activity android:name=".rolePlayingGamesApps" />
+        <activity android:name=".racingGamesApps" />
+        <activity android:name=".casualPuzzleGamesApps" />
+        <activity android:name=".cardBoardGamesApps" />
+        <activity android:name=".actionStrategyGamesApps" />
+        <activity android:name=".westBengalApps" />
+        <activity android:name=".uttarPradeshApps" />
+        <activity android:name=".uttarakhandApps" />
+        <activity android:name=".tripuraApps" />
+        <activity android:name=".telanganaApps" />
+        <activity android:name=".tamilNaduApps" />
+        <activity android:name=".sikkimApps" />
+        <activity android:name=".rajasthanApps" />
+        <activity android:name=".punjabApps" />
+        <activity android:name=".odishaApps" />
+        <activity android:name=".mizoramApps" />
+        <activity android:name=".nagalandApps" />
+        <activity android:name=".meghalayaApps" />
+        <activity android:name=".manipurApps" />
+        <activity android:name=".maharashtraApps" />
+        <activity android:name=".madhyaPradeshApps" />
+        <activity android:name=".kerelaApps" />
+        <activity android:name=".karnatakaApps" />
+        <activity android:name=".jharkhandApps" />
+        <activity android:name=".himachalPradeshApps" />
+        <activity android:name=".haryanaApps" />
+        <activity android:name=".gujaratApps" />
+        <activity android:name=".goaApps" />
+        <activity android:name=".chattisgarhApps" />
+        <activity android:name=".biharApps" />
+        <activity android:name=".assamApps" />
+        <activity android:name=".newsApps" />
+        <activity android:name=".paymentApps" />
+        <activity android:name=".gamesApps" />
+        <activity android:name=".travellingApps" />
+        <activity android:name=".entertainmentApps" />
+        <activity android:name=".educationalApps" />
+        <activity android:name=".arunachal_pradesh_apps" />
+        <activity android:name=".andharapradeshapp" />
+        <activity android:name=".stateApps" />
+        <activity android:name=".centralApps" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".govApps" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

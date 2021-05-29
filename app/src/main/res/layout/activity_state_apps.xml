@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".stateApps">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/andharaPradesh"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="Andhra Pradesh"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/arunachal_pradesh"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="arunachal pradesh"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/assam_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="assam"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/bihar_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="bihar"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/chattisgarh_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="chattisgarh"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/goa_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="goa"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/gujarat_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="gujarat"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/haryana_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="Haryana"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/himachal_pradesh_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="Himachal pradesh"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/jharkhand_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="jharkhand"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/karnataka_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="karnataka"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/kerela_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="kerela"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/madhya_pradesh_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="madhya pradesh"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/maharashtra_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="maharashtra"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/manipur_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="manipur"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/meghalaya_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="meghalaya"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/mizoram_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="mizoram"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/nagaland_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="nagaland"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/odisha_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="odisha"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/punjab_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="punjab"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/rajasthan_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="rajasthan"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/sikkim_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="sikkim"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/tamil_nadu_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="tamil nadu"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/telangana_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="telangana"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/tripura_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="tripura"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/uttar_pradesh_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="uttar pradesh"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/uttarakhand_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="uttarakhand"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/west_bengal_app_button"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="west bengal"
+            android:textSize="30sp" />
+
+    </LinearLayout>
+
+</ScrollView>

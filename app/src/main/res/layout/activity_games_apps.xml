@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".gamesApps">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/action_strategy_games"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="Action and Strategy Games Apps"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/card_board_games"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/rounded_button"
+            android:layout_margin="5pt"
+            android:text="Card and board games apps "
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/casual_puzzle_games"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/rounded_button"
+            android:layout_margin="5pt"
+            android:text="casual and puzzle games apps "
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/racing_games"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="racing games apps "
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/role_playing_games"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/rounded_button"
+            android:layout_margin="5pt"
+            android:text="role playing games apps "
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/sports_word_games"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="sports and word games apps "
+            android:textSize="30sp" />
+
+    </LinearLayout>
+
+
+</ScrollView>

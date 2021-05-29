@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/constraintLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+            android:id="@+id/government"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="government apps"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/games"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/rounded_button"
+            android:layout_margin="5pt"
+            android:text="games apps "
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/educational"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/rounded_button"
+            android:layout_margin="5pt"
+            android:text="educational apps "
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/entertainment"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="Entertainment apps"
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/travelling"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@drawable/rounded_button"
+            android:layout_margin="5pt"
+            android:text="travelling apps "
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/news"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="news apps "
+            android:textSize="30sp" />
+
+        <Button
+            android:id="@+id/payment"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_margin="5pt"
+            android:background="@drawable/rounded_button"
+            android:text="payment apps "
+            android:textSize="30sp" />
+
+
+
+    </LinearLayout>
+
+
+</ScrollView>
